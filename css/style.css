@@ -61,7 +61,7 @@ nav{
 	padding: 4rem;
 	grid-area: "timeline";
 	overflow-y: scroll;
-	width: 880px;
+	width: 100%;
 	animation: entering 0.8s ease-in-out;
 }
 
@@ -116,7 +116,7 @@ aside{
 	border-right: 1px solid;
 	border-image: linear-gradient(#727275, #2c2c31) 1 ;
 	gap: 1.2rem;
-	background-image: url("./assets/background.svg");
+	background-image: url("/assets/background.svg");
 	background-position: top right;
 	background-repeat: no-repeat;
 	background-size: auto 100%;
