@@ -49,7 +49,7 @@
 body{
 	display: grid;
 	grid-template-areas: "profile timeline";
-	grid-template-columns:30% 60%;
+	grid-template-columns:30% 70%;
 	grid-template-rows: 100vh;
 	background-color: #121215;
 	color: #eaeaea;
